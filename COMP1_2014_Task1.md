@@ -34,7 +34,7 @@ When you complete a game you will be asked to add your score to the list of most
 ###Questions
 **Answer** the following questions:
 
-1. Which function is responsible for getting the name from the user?
+1. Which function is responsible for getting the name from the user? **GetPlayerName**
 2. How will you ensure that the user is asked for the name repeatedly?
 3. What additional variable will you need and what will its datatype be?
 
@@ -52,7 +52,7 @@ Some users are not keen on adding their name to high score tables - they want to
 ###Questions
 **Answer** the following questions:
 
-1. Which function is responsible for adding scores to the table?
+1. Which function is responsible for adding scores to the table? **UpdateRecentScores**
 
 ###Program code
 **Improve** the function identified above so that the user has the choice of whether to add their name to the high score table or not.
@@ -74,7 +74,7 @@ One improvement that we can make is to record the date a high score was achieved
 ###Questions
 **Answer** the following questions:
 
-1. What additional module will you need to import into the program?
+1. What additional module will you need to import into the program? **import datetime**
 2. Identify the four functions that will require changes.
 3. How do you convert a string in the format DD/MM/YY (e.g. 14/08/93) to a **date** type in Python?
 
