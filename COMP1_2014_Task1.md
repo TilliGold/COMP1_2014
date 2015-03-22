@@ -75,7 +75,7 @@ One improvement that we can make is to record the date a high score was achieved
 **Answer** the following questions:
 
 1. What additional module will you need to import into the program? **import datetime**
-2. Identify the four functions that will require changes.
+2. Identify the four functions that will require changes. **ResetRecentScores, DisplayRecentScores, UpdateRecentScores, PlayGame**
 3. How do you convert a string in the format DD/MM/YY (e.g. 14/08/93) to a **date** type in Python? **dob = 18/03/1998 datetime.strptime(dob, "%d,%m,%Y")**
 
 ###Program code
