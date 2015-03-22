@@ -88,6 +88,7 @@ Section B of the COMP1 exam focuses on your understanding of the program source 
 **Answer** the following questions:
 
 1. Describe each variable role in **your own words**.
+
 |**Variable role**|**Description**|
 |-----------------|---------------|
 |Fixed value|A variable initialised with ay calculation and without being changed (eg remembering the number of array elements in use).|
@@ -97,6 +98,7 @@ Section B of the COMP1 exam focuses on your understanding of the program source 
 |Transformation|A variable that always gets its ew value from a fixed calculation of values of other variables (eg storing the result of a measurement conversion).|
 |Follower|A variable that gets its new value from the old value of another data item.|
 |Temporary|A variable holding some value for a short time only.|
+
 2. Give an example of variable from the program code for each variable role.
 
 ##Additional Task - Functions and parameters
