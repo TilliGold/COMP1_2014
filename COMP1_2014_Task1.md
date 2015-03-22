@@ -88,6 +88,15 @@ Section B of the COMP1 exam focuses on your understanding of the program source 
 **Answer** the following questions:
 
 1. Describe each variable role in **your own words**.
+|**Variable role**|**Description**|
+|-----------------|---------------|
+|Fixed value|A variable initialised with ay calculation and without being changed (eg remembering the number of array elements in use).|
+|Stepper|A variable going through a series of systematic, predictable values (eg during iteration a variable used to keep pcount of a number of repetiitions).|
+|Most recent holder|A variable holding the latest value encountered when processing a series of unpredictable values or the latest value obtained as input.|
+|Gatherer|A variable accumulating the effect of individual values (eg when calculates a new set of values, it keeps a running total of all values added so far).|
+|Transformation|A variable that always gets its ew value from a fixed calculation of values of other variables (eg storing the result of a measurement conversion).|
+|Follower|A variable that gets its new value from the old value of another data item.|
+|Temporary|A variable holding some value for a short time only.|
 2. Give an example of variable from the program code for each variable role.
 
 ##Additional Task - Functions and parameters
@@ -107,7 +116,7 @@ The AS textbook has a good section on passing by value and passing by reference 
 ##Questions
 **Answer** the following questions:
 
-1. Describe the difference between passing by value and passing by reference in **your own words**.
+1. Describe the difference between passing by value and passing by reference in **your own words**. **Passing by value is where a copy of the original value of the variable is stored in memory, whereas passing by reference is where the actual value of the variable is stored in memory.**
 2. For each function in the program identify the mechanism using to pass each parameter. **Note**: this task will take a while but it will improve your understanding of the program and by useful for the exam.
 
 ##Next
