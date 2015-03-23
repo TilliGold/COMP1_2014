@@ -42,9 +42,13 @@ When you complete a game you will be asked to add your score to the list of most
 Write the function identified above in pseudo-code with the improvements necessary to prevent the user leaving their name blank.
 
 ``Input PlayerName
+
 while user has not entered name
+
   print "You must enter something for your name"
+  
   input PlayerName
+  
 Return PlayerName
 ``
 
