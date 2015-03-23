@@ -54,6 +54,8 @@ Return PlayerName
 ###Program code
 Use the pseudo-code created above to help you improve the actual program code.
 
+![](https://www.dropbox.com/s/5e2nwt1ovtz8zmb/hww.PNG?dl=1)
+
 ##Task 3(b) - Deciding whether you want to add your name to the recent score table
 Some users are not keen on adding their name to high score tables - they want to play the game but remain anonymous. Before being asked for their name they should be allowed to decide whether they want to add their name to the recent score table:
 
