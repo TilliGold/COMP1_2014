@@ -35,11 +35,18 @@ When you complete a game you will be asked to add your score to the list of most
 **Answer** the following questions:
 
 1. Which function is responsible for getting the name from the user? **GetPlayerName**
-2. How will you ensure that the user is asked for the name repeatedly?
+2. How will you ensure that the user is asked for the name repeatedly? **By using a while loop that continuously asks for the players name until one is entered.**
 3. What additional variable will you need and what will its datatype be?
 
 ###Pseudo-code
 Write the function identified above in pseudo-code with the improvements necessary to prevent the user leaving their name blank.
+
+``Input PlayerName
+while user has not entered name
+  print "You must enter something for your name"
+  input PlayerName
+Return PlayerName
+``
 
 ###Program code
 Use the pseudo-code created above to help you improve the actual program code.
@@ -119,7 +126,7 @@ The AS textbook has a good section on passing by value and passing by reference 
 **Answer** the following questions:
 
 1. Describe the difference between passing by value and passing by reference in **your own words**. **Passing by value is where a copy of the original value of the variable is stored in memory, whereas passing by reference is where the actual value of the variable is stored in memory.**
-2. For each function in the program identify the mechanism using to pass each parameter. **Note**: this task will take a while but it will improve your understanding of the program and by useful for the exam.
+2. For each function in the program identify the mechanism using to pass each parameter. **Note**: this task will take a while but it will improve your understanding of the program and be useful for the exam.
 
 ##Next
 This task sheet has focused on **validation**, the next set of tasks will involve making improvements to the actual game.
