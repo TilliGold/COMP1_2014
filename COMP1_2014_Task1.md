@@ -41,7 +41,7 @@ When you complete a game you will be asked to add your score to the list of most
 ###Pseudo-code
 Write the function identified above in pseudo-code with the improvements necessary to prevent the user leaving their name blank.
 
-``Input PlayerName
+Input PlayerName
 
 while user has not entered name
 
@@ -50,7 +50,6 @@ while user has not entered name
   input PlayerName
   
 Return PlayerName
-``
 
 ###Program code
 Use the pseudo-code created above to help you improve the actual program code.
