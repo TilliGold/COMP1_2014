@@ -64,6 +64,8 @@ Use the pseudo-code created above to help you improve the actual program code.
 
 ![](https://www.dropbox.com/s/5e2nwt1ovtz8zmb/hww.PNG?dl=1)
 
+![](https://www.dropbox.com/s/fn5qrjs23yno3w9/s5.PNG?dl=1)
+
 ##Task 3(b) - Deciding whether you want to add your name to the recent score table
 Some users are not keen on adding their name to high score tables - they want to play the game but remain anonymous. Before being asked for their name they should be allowed to decide whether they want to add their name to the recent score table:
 
@@ -77,6 +79,10 @@ Some users are not keen on adding their name to high score tables - they want to
 ###Program code
 **Improve** the function identified above so that the user has the choice of whether to add their name to the high score table or not.
 
+![](https://www.dropbox.com/s/6qibg3xn3kuigow/s6.PNG?dl=1)
+
+![](https://www.dropbox.com/s/aljfix5w8dkuvhr/s7.PNG?dl=1)
+
 ##Task 4 - Formatting the recent score table
 Currently the formatting of the recent score table is quite poor:
 
@@ -87,6 +93,8 @@ It would be better if it looked like this:
 ![][5]
 
 **Find** the function responsible for generating the recent score table and **improve** it so that the scores are displayed in a clear tabular format.
+
+![](https://www.dropbox.com/s/2m26nn5tksmfadu/s8.PNG?dl=1)
 
 ##Task 5 - Adding a date to the recent scores
 One improvement that we can make is to record the date a high score was achieved. This will involve making changes in **four** functions of the program and **importing** an additional module.
@@ -100,6 +108,8 @@ One improvement that we can make is to record the date a high score was achieved
 
 ###Program code
 **Make** the necessary changes to the program so that the date can be stored along with the rest of the of the recent score details. **Ensure** that when the score is displayed that it is in the **format DD/MM/YY**.
+
+![](https://www.dropbox.com/s/fw7pj23p4sg0z2y/s9.PNG?dl=1)
 
 ##Additional Task - Variable roles
 Section B of the COMP1 exam focuses on your understanding of the program source code. Often the questions will focus on the **role of variables** in the program. There are several different roles that a variable can have: they are described on **page 66** of the AS textbook.
