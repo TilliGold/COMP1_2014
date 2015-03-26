@@ -12,6 +12,8 @@ Currently the program will not except **Y**, **Yes**, **yes**, **N**, **No** or 
 
 **Improve** the function so that all of these additional values are considered as acceptable input.
 
+![](https://www.dropbox.com/s/4ugdh9vc2isv87q/s1.PNG?dl=1)
+
 ##Task 2 - Improving menu choice input
 The function **`GetMenuChoice()`** is responsible for asking the user to enter their choice from the main program menu. Only the **first character** of this input is required as the available choices are:
 
@@ -22,6 +24,8 @@ The function **`GetMenuChoice()`** is responsible for asking the user to enter t
 - 4
 
 Currently the program will reject the user entering **Q** or **Quit** for instance. **Improve** this function so all of these values are recognised as being equivalent to **q**.
+
+![](https://www.dropbox.com/s/x8sqbrexl38edmi/s2.PNG?dl=1)
 
 ##Task 3(a) - Validating the name for a recent score
 When you complete a game you will be asked to add your score to the list of most recent scores. To do this you need to enter your name - the program **should** work as follows:
