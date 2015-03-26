@@ -111,6 +111,8 @@ One improvement that we can make is to record the date a high score was achieved
 
 ![](https://www.dropbox.com/s/fw7pj23p4sg0z2y/s9.PNG?dl=1)
 
+![](https://www.dropbox.com/s/78os3807b2awmha/s10.PNG?dl=1)
+
 ##Additional Task - Variable roles
 Section B of the COMP1 exam focuses on your understanding of the program source code. Often the questions will focus on the **role of variables** in the program. There are several different roles that a variable can have: they are described on **page 66** of the AS textbook.
 
